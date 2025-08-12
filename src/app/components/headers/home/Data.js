@@ -9,7 +9,7 @@ const Data = () => {
       </h1>
       <h3 className="relative text-lg font-normal pl-20 mb-4">
         <span className="absolute left-0 top-2 w-16 h-[1px] bg-gray-500"></span>
-        Visual Designer
+        CEO 'incubenation'
       </h3>
       <p className="text-gray-600 max-w-md mb-6">
         I’m a creative designer based in New York, and I’m very passionate and dedicated to my work.
